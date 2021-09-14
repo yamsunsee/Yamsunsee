@@ -1,6 +1,6 @@
-👋 Hi there, I’m **YAM**!
+👋 Hi there, I’m **YAM**
 
-👀 I’m interested in building some interesting stuff!
+👀 I’m interested in building some interesting stuff
 
 🌱 I’m currently learning to be a ***Web Developer***
 
