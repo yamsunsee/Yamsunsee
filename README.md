@@ -1,4 +1,4 @@
-👋 Hi there, I’m **YAM**
+<h1>👋 Hi there! I'm Yam 👋</h1>
 
 👀 I’m interested in building some interesting stuff
 
@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on the field of ***Web Development***
 
-📫 Contact me via ***yamsunsee@gmail.com***
+📫 Please feel free to contact me via ***yamsunsee@gmail.com***
 
 <!---
 Yamsunsee/Yamsunsee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
