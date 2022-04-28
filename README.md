@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on the field of ***Web Development***
 
-📫 Please feel free to contact me via <a href="https://www.facebook.com/phamthehien0410/">Facebook</a> or <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=phamthehien0410@gmail.com">Email</a>
+📫 Please feel free to contact me via <a target="_blank" href="https://www.facebook.com/phamthehien0410/">Facebook</a> or <a target="_blank" href="https://mail.google.com/mail/?view=cm&source=mailto&to=phamthehien0410@gmail.com">Email</a>
 
 <!---
 Yamsunsee/Yamsunsee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
