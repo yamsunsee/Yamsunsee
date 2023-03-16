@@ -1,17 +1,17 @@
-<h1 align="center">👋 HELLO THERE! WELCOME TO MY GITHUB PAGE! 👋</h1>
+<h1 align="center">👋 HELLO THERE! WELCOME TO MY GITHUB PAGE! 👨‍💻</h1>
 <p align="center"><i>You can call me <strong>Yam</strong>! I'm a self-taught front-end developer from Vietnam!</i></p>
 <br />
 <br />
 
-👀  Want to know more about me? **[Check out my portfolio](https://yamdev.info)**!
+🔎  Want to know more about me? **[Check out my portfolio](https://yamdev.info)**!
 
-📫  Feel free to reach out to me via email at **mail.yamdev@gmail.com** or connect with me on **[facebook](https://www.facebook.com/phamthehien0410/)**!
+📩  Feel free to reach out to me at **mail.yamdev@gmail.com** or connect with me on **[facebook](https://www.facebook.com/phamthehien0410/)**!
 
-💞️ I'm always happy to chat about web development or just say hello!
+💕 I'm always happy to chat about web development or just say hello!
 
 <br />
 
-> Like a spider, I strive to be a good web developer. But I do not like bugs much!
+> 🕷️ Like a spider, I strive to be a good web developer 🕸️ But I do not like bugs much! 🐞🐛🦋🦟🦗
 
 
 <br />
@@ -25,7 +25,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+<br />
+<br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;
@@ -38,6 +40,7 @@
 </p>
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamsunsee&show_icons=true&locale=en&layout=compact" alt="yamsunsee" height="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamsunsee&show_icons=true&locale=en&layout=compact" alt="yamsunsee" height="200"/></p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yamsunsee&show_icons=true&locale=en" alt="yamsunsee" height="200"/>
 </p>
