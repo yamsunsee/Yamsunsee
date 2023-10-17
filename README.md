@@ -5,7 +5,7 @@
 
 🔎  Want to know more about me? **[Check out my portfolio](https://yamdev.info)**!
 
-📩  Feel free to reach out to me at **mail.yamdev@gmail.com** or connect with me on **[facebook](https://www.facebook.com/phamthehien0410/)**!
+📩  Feel free to reach out to me at **mail.yamdev@gmail.com**!
 
 💕 I'm always happy to chat about web development or just say hello!
 
